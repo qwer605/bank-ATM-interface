@@ -97,4 +97,26 @@ public class Bank {
         this.accounts.add(anAcct);
     }
 
+    /**
+     * Create new User
+     * @param firstname User`s firstname
+     * @param lastname User`s lastname
+     * @param pin User`s pin
+     * @return
+     */
+    public User addUser(String firstname , String lastname , String pin){
+
+        //create a new User object and add it to the list
+        User newUser = new User(firstname , lastname ,pin , this);
+        this.users.add(newUser);
+
+        //create savings account for the user and add to
+        //User and Bank accounts lists
+        Account newAccount = new Account("Savings" , newUser , this);
+        newUser.addAccount(newAccount);
+        this.accounts.add(newAccount);
+
+        return newUser;
+    }
+
 }

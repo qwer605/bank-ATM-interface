@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b74a1f11-2510-4649-bd48-66add11f4a55" name="Changes" comment="New methods for generate UUID">
+    <list default="true" id="b74a1f11-2510-4649-bd48-66add11f4a55" name="Changes" comment="adding Transaction constructors">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bank.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684487301306</updated>
       <workItem from="1684487302813" duration="3189000" />
-      <workItem from="1684754522693" duration="3762000" />
+      <workItem from="1684754522693" duration="4389000" />
     </task>
     <task id="LOCAL-00001" summary="Getting started">
       <created>1684487480589</created>
@@ -104,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684757988868</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="adding Transaction constructors">
+      <created>1684758517631</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1684758517631</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +137,7 @@
     <MESSAGE value="Setting bank data" />
     <MESSAGE value="Created User constructor , new method for Bank.java" />
     <MESSAGE value="New methods for generate UUID" />
-    <option name="LAST_COMMIT_MESSAGE" value="New methods for generate UUID" />
+    <MESSAGE value="adding Transaction constructors" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding Transaction constructors" />
   </component>
 </project>

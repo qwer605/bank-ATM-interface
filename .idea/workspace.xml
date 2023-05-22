@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b74a1f11-2510-4649-bd48-66add11f4a55" name="Changes" comment="Setting account`s data">
+    <list default="true" id="b74a1f11-2510-4649-bd48-66add11f4a55" name="Changes" comment="Setting bank data">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bank.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684487301306</updated>
-      <workItem from="1684487302813" duration="1482000" />
+      <workItem from="1684487302813" duration="3189000" />
     </task>
     <task id="LOCAL-00001" summary="Getting started">
       <created>1684487480589</created>
@@ -75,7 +78,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684488461660</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Setting transaction data">
+      <created>1684488852267</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684488852267</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Setting bank data">
+      <created>1684489113564</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684489113564</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +113,8 @@
     <MESSAGE value="Getting started" />
     <MESSAGE value="Setting user`s data" />
     <MESSAGE value="Setting account`s data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Setting account`s data" />
+    <MESSAGE value="Setting transaction data" />
+    <MESSAGE value="Setting bank data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Setting bank data" />
   </component>
 </project>

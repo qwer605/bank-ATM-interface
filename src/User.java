@@ -64,4 +64,20 @@ public class User {
 
 
     }
+
+    /**
+     * Add an account for the user
+     * @param anAcct the account to add
+     */
+    public void addAccount(Account anAcct){
+        this.accounts.add(anAcct);
+    }
+
+    /**
+     * Return the user`s UUID
+     * @return the uuid
+     */
+    public String getUUID() {
+        return uuid;
+    }
 }

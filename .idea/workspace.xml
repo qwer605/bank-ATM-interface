@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b74a1f11-2510-4649-bd48-66add11f4a55" name="Changes" comment="created new methods Bank.userLogin and User.validatePin">
+    <list default="true" id="b74a1f11-2510-4649-bd48-66add11f4a55" name="Changes" comment="new authorization method , Bank.java constructor">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ATM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ATM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +55,7 @@
       <updated>1684487301306</updated>
       <workItem from="1684487302813" duration="3189000" />
       <workItem from="1684754522693" duration="6478000" />
-      <workItem from="1684841323670" duration="3357000" />
+      <workItem from="1684841323670" duration="4901000" />
     </task>
     <task id="LOCAL-00001" summary="Getting started">
       <created>1684487480589</created>
@@ -127,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684760621424</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="new authorization method , Bank.java constructor">
+      <created>1684850906104</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1684850906104</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +162,7 @@
     <MESSAGE value="adding Transaction constructors" />
     <MESSAGE value="removed two lines of code from Account.java , created addUser method for Bank.java" />
     <MESSAGE value="created new methods Bank.userLogin and User.validatePin" />
-    <option name="LAST_COMMIT_MESSAGE" value="created new methods Bank.userLogin and User.validatePin" />
+    <MESSAGE value="new authorization method , Bank.java constructor" />
+    <option name="LAST_COMMIT_MESSAGE" value="new authorization method , Bank.java constructor" />
   </component>
 </project>
